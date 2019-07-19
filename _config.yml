@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Soroosh Gholamizoj"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "A computer science M.Sc. student at the University of Waterloo"
   location         : "Waterloo, Ontario"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
